@@ -7,10 +7,10 @@ My Current Skillset are:
 - PHP, CSS, HTML, JS, JQuery
 
 My Past SKillset are:
-- Java, VB.Net, Oracle SQL (College)
-- Unity, Cocos Creator, MongoDB, Flutter, Node.JS, ReactJS, Bootstrap, Native Android (Hobby)
-- Visual FoxPro (legacy), Visual Basic 6, Microsoft SQL Server (Stored Procedures/Functions/SQL Agent)
-- Framework/Tools: Google Analytic, TikTok Ads, Facebook Business Manager, Codeigniter, Ionic, Drupal
+- College - Java, VB.Net, Oracle SQL
+- Hobby - Unity, Cocos Creator, MongoDB, Flutter, Node.JS, ReactJS, Bootstrap, Native Android
+- Past Job - Visual FoxPro (legacy), Visual Basic 6, Microsoft SQL Server (Stored Procedures/Functions/SQL Agent)
+- Exposure in Framework/Tools: Google Analytic, TikTok Ads, Facebook Business Manager, Codeigniter, Ionic, Drupal
 
 <!--
 **bykeat/bykeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
