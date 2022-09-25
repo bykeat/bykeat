@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a company's day-to-day tasks on web development.
-- 🌱 I’m forever learning on how to be a better programmer with broad skillset.
+- 🌱 I’m always learning on how to be a better programmer with broad skillset.
 
 My Current Skillset are:
 - PHP, CSS, HTML, JS, JQuery
